@@ -1,3 +1,2 @@
-hoge
-hoge
-hoge
+hoge 
+nose 
